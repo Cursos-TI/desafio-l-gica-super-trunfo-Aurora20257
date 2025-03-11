@@ -105,7 +105,9 @@ else if (soma_carta1 < soma_carta2)
 {
     printf("\nCarta 2 venceu este jogo! \n");
 }
+
 else
+
 {
 
 printf("\nEmpate!\n");
